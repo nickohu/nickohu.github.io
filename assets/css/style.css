@@ -1,0 +1,32 @@
+.jumbotron img {
+    width: 250px;
+}
+
+.jumbotron {
+    background-color: black;
+}
+
+.jumbotron h1,
+p {
+    color: cornsilk;
+}
+
+.about hr {
+    width: 500px;
+    border: solid black;
+}
+
+.about p {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.jumbotron hr {
+    width: 500px;
+    border: solid #666;
+}
+
+.contact hr {
+    width: 500px;
+    border: solid black;
+}
